@@ -1,4 +1,4 @@
 applications:
-- name: VoiceSens
+- name: VoiceSensAuth
   random-route: true
   memory: 256M
